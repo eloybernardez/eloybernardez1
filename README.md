@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @eloybernardez
 - 👀 I’m interested in Front End Development.
-- 🌱 I’m currently learning HTML5, CSS3 and Javascript.
+- 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to collaborate on any project and help you to make it grow!
+- 🖥  LinkedIn: https://www.linkedin.com/in/eloy-bernardez-b8474a154/
 - 📫 You can reach me at eloy.ricardo.550@gmail.com
